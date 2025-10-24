@@ -2,9 +2,10 @@
 
 A collection of Python exercises focused on Lists, Tuples, Sets, Dictionaries, and File Handling designed to demonstrate fundamental data structure operations and manipulation techniques in Python.
 
-| File                  | Description                                                                                    |
-| --------------------- | ---------------------------------------------------------------------------------------------- |
-| `student_grades.py`   | Manages student grades using Python **lists** (add, display, average, and find highest).       |
-| `coordinates.py`      | Demonstrates **tuples** for coordinate operations such as distance and midpoint calculation.   |
-| `student_database.py` | Implements a student record system using **dictionaries** for storing and retrieving data.     |
-| `student_records.py`  | Handles **file operations** (save, load, and export student data using pickle and text files). |
+| Filename              | Description                                                                                                                                  |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| `student_grades.py`   | Implements a grade management system using **lists**. Includes functions to add students, compute averages, and determine the highest grade. |
+| `coordinates.py`      | Demonstrates the use of **tuples** in representing and calculating distances and midpoints between coordinates.                              |
+| `student_database.py` | Simulates a student database using **dictionaries**, including record addition, retrieval, and updates.                                      |
+| `student_records.py`  | Focuses on **file handling** operations such as saving, loading, and exporting student records using `pickle` and text files.                |
+
